@@ -1,0 +1,5 @@
+files:
+    -
+        source_path: "file.txt"
+    -
+        source_path: "v*.txt"
