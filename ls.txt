@@ -1,0 +1,10 @@
+total 32
+drwxr-xr-x   9 jasonkit  staff   306 Dec  7 18:30 .
+drwxr-xr-x  32 jasonkit  staff  1088 Nov 23 14:55 ..
+drwxr-xr-x  14 jasonkit  staff   476 Dec  7 18:29 .git
+-rw-r--r--   1 jasonkit  staff    81 Dec  6 18:49 .oneskyapp.yml
+drwxr-xr-x   3 jasonkit  staff   102 Nov 24 17:56 dir
+-rw-r--r--   1 jasonkit  staff    10 Dec  7 18:29 file.txt
+-rw-r--r--   1 jasonkit  staff     0 Dec  7 18:30 ls.txt
+-rw-r--r--   1 jasonkit  staff    15 Nov 24 17:41 v1.txt
+-rw-r--r--   1 jasonkit  staff    28 Dec  6 18:49 v2.txt
