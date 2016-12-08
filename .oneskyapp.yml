@@ -2,4 +2,7 @@ files:
     -
         source_path: "file.txt"
     -
-        source_path: "v*.txt"
+        source_path: '/HelloWorld/en.lproj/*.strings'
+        translation_path: '/HelloWorld/[locale].lproj/[filename].strings'
+        options:
+              fill_untranslated_keys_with_source_text: true
