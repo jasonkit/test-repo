@@ -2,6 +2,8 @@ files:
     -
         source_path: "file.txt"
     -
+        multilingual_path: "/dir/*.txt"
+    -
         source_path: '/HelloWorld/en.lproj/*.strings'
         translation_path: '/HelloWorld/[locale].lproj/[filename].strings'
         options:
