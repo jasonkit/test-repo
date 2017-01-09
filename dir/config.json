@@ -1,0 +1,4 @@
+{
+  "logConfig": "/tmp/log4j.xml",
+  "dirTreeFile": "/tmp/dirtree.json"
+}
