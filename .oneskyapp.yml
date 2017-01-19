@@ -8,3 +8,5 @@ files:
         translation_path: '/HelloWorld/[locale].lproj/[filename].strings'
         options:
               fill_untranslated_keys_with_source_text: true
+    -
+        source_path: "/test/f1.txt"
